@@ -14,9 +14,9 @@ body {
   display: grid;
   grid-template-columns: 1fr 2fr;
   gap: 24px;
-  background-color: #1e293b;
+  /* background-color:  #1e293b; */
   border-radius: 12px;
-  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+  /* box-shadow: 0 0 12px rgba(0, 0, 0, 0.5); */
 }
 
 a {
